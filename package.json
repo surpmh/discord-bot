@@ -1,0 +1,30 @@
+{
+  "name": "discord-roulette-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.1",
+    "@discordjs/rest": "^1.7.0",
+    "discord-api-types": "^0.37.38",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surpmh/discord-roulette-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/surpmh/discord-roulette-bot/issues"
+  },
+  "homepage": "https://github.com/surpmh/discord-roulette-bot#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
